@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on Felipe Torres | Game Developer Portfolio</title>
-    <link>http://felipe-torres.github.io/portfolio/index.xml</link>
+    <link>https://felipe-torres.github.io/portfolio/index.xml</link>
     <description>Recent content in Portfolios on Felipe Torres | Game Developer Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 Felipe Torres Perugachi</copyright>
     <lastBuildDate>Mon, 05 Sep 2016 19:41:01 +0530</lastBuildDate>
-    <atom:link href="http://felipe-torres.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://felipe-torres.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Shader: Texture Blending</title>
-      <link>http://felipe-torres.github.io/portfolio/work2/</link>
+      <link>https://felipe-torres.github.io/portfolio/work2/</link>
       <pubDate>Mon, 05 Sep 2016 19:41:01 +0530</pubDate>
       
-      <guid>http://felipe-torres.github.io/portfolio/work2/</guid>
+      <guid>https://felipe-torres.github.io/portfolio/work2/</guid>
       <description>&lt;p&gt;A Unity3D shader that blends between two given textures and applies an optional tint color to them. Used primarily for special effects and texture transitioning.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://felipe-torres.github.io/img/portfolio/textureBlending/TextureBlending.gif#center-resize&#34; alt=&#34;Texture Blending&#34; title=&#34;Texture blending component&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/textureBlending/TextureBlending.gif#center-resize&#34; alt=&#34;Texture Blending&#34; title=&#34;Texture blending component&#34; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -34,20 +34,20 @@
 &lt;p&gt;I created also a component to easily animate materials using this shader, so we could achieve some ambient effects for the scene.&lt;/p&gt;
 
 &lt;p&gt;This way, we could transition to and from different colors:
-&lt;img src=&#34;http://felipe-torres.github.io/img/portfolio/textureBlending/TextureBlendingColors.gif#center-resize&#34; alt=&#34;Texture Blending&#34; title=&#34;Texture blending with colors&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/textureBlending/TextureBlendingColors.gif#center-resize&#34; alt=&#34;Texture Blending&#34; title=&#34;Texture blending with colors&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;And also textures:
-&lt;img src=&#34;http://felipe-torres.github.io/img/portfolio/textureBlending/TextureBlendingTextures.gif#center-resize&#34; alt=&#34;Texture Blending&#34; title=&#34;Texture blending&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/textureBlending/TextureBlendingTextures.gif#center-resize&#34; alt=&#34;Texture Blending&#34; title=&#34;Texture blending&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This work was developed while working at &lt;strong&gt;Yeltic&lt;/strong&gt;: &lt;a href=&#34;http://yeltic.com/en/&#34;&gt;http://yeltic.com/en/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Character head and eye tracking</title>
-      <link>http://felipe-torres.github.io/portfolio/work1/</link>
+      <link>https://felipe-torres.github.io/portfolio/work1/</link>
       <pubDate>Fri, 05 Aug 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://felipe-torres.github.io/portfolio/work1/</guid>
+      <guid>https://felipe-torres.github.io/portfolio/work1/</guid>
       <description>&lt;p&gt;A script component that enables player tracking for a given character&amp;rsquo;s eyes and head, based on parametrical constraints.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
@@ -66,12 +66,12 @@
 
 &lt;p&gt;This of course, is nothing new. It&amp;rsquo;s an aspect of npc characterization that has been in game development for long now. Think of how npcs looked at Link when approached in The Legend of Zelda: The Wind Waker, for instance.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://felipe-torres.github.io/img/portfolio/eyeHeadTracking/killerbees.gif#center-resize&#34; alt=&#34;Killer bees&#34; title=&#34;Remember these creepy little guys? Yikes!&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/eyeHeadTracking/killerbees.gif#center-resize&#34; alt=&#34;Killer bees&#34; title=&#34;Remember these creepy little guys? Yikes!&#34; /&gt;
 &lt;!-- ###### The Legend of Zelda: The Wind Waker is property of Nintendo --&gt;&lt;/p&gt;
 
 &lt;p&gt;Starting with the basic idea of tracking, the first thought that comes to mind is transform&amp;rsquo;s look at operations. We can easily align a transform&amp;rsquo;s rotation to &amp;ldquo;look at&amp;rdquo; a given target. But this solution, unconstrained, can create weird looking results:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://felipe-torres.github.io/img/portfolio/eyeHeadTracking/EyeTrackingNoConstraints.gif#center-resize&#34; alt=&#34;Unconstrained tracking&#34; title=&#34;Unconstrained head tracking&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/eyeHeadTracking/EyeTrackingNoConstraints.gif#center-resize&#34; alt=&#34;Unconstrained tracking&#34; title=&#34;Unconstrained head tracking&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;As you can see, when rotation is unconstrained, things start to look very unnatural. People cannot after all, turn their heads 180 degrees nor can their eyes rotate indefinitely (which ends up in incredibly spooky, scary results!). Another issue with the eyes was that each individual eye must have the same rotation as the other does, unless we want to end up with one eye looking at one direction and the other to somewhere else! Then, I broke this problem in two:&lt;/p&gt;
 
@@ -87,14 +87,14 @@
 &lt;h4 id=&#34;the-result&#34;&gt;The Result&lt;/h4&gt;
 
 &lt;p&gt;A reusable character component which provides eye contact and head movement for a given target (supporting dynamic target changes), given as parameters: vision range angle, rotation speed, and rotation offset.&lt;br /&gt;
-&lt;img src=&#34;http://felipe-torres.github.io/img/portfolio/eyeHeadTracking/EyeTrackingInspector.gif#center-resize&#34; alt=&#34;Inspector component&#34; title=&#34;Inspector component&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/eyeHeadTracking/EyeTrackingInspector.gif#center-resize&#34; alt=&#34;Inspector component&#34; title=&#34;Inspector component&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Constrained head and eyes tracking with a default pose to return to when out of vision range.
-&lt;img src=&#34;http://felipe-torres.github.io/img/portfolio/eyeHeadTracking/EyeTrackingOnOff.gif#center-resize&#34; alt=&#34;Constrained tracking&#34; title=&#34;Constrained tracking with default position&#34; /&gt;
+&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/eyeHeadTracking/EyeTrackingOnOff.gif#center-resize&#34; alt=&#34;Constrained tracking&#34; title=&#34;Constrained tracking with default position&#34; /&gt;
 Support for both horizontal and vertical tracking and constraints.
-&lt;img src=&#34;http://felipe-torres.github.io/img/portfolio/eyeHeadTracking/EyeTrackingUpDown.gif#center-resize&#34; alt=&#34;Vertical movement&#34; title=&#34;Vertical tracking&#34; /&gt;
+&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/eyeHeadTracking/EyeTrackingUpDown.gif#center-resize&#34; alt=&#34;Vertical movement&#34; title=&#34;Vertical tracking&#34; /&gt;
 Rotation constraints help to avoid unnatural behavior.
-&lt;img src=&#34;http://felipe-torres.github.io/img/portfolio/eyeHeadTracking/EyeTrackingBack.gif#center-resize&#34; alt=&#34;Back movement&#34; title=&#34;Unnatural possessed head rotations no more!&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/eyeHeadTracking/EyeTrackingBack.gif#center-resize&#34; alt=&#34;Back movement&#34; title=&#34;Unnatural possessed head rotations no more!&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;It is worth acknowledging that this component has its limitations and may be improved on some aspects:&lt;/p&gt;
 
@@ -108,10 +108,10 @@ Rotation constraints help to avoid unnatural behavior.
     
     <item>
       <title>Room lightmapping</title>
-      <link>http://felipe-torres.github.io/portfolio/work3/</link>
+      <link>https://felipe-torres.github.io/portfolio/work3/</link>
       <pubDate>Mon, 05 Sep 2016 19:44:32 +0530</pubDate>
       
-      <guid>http://felipe-torres.github.io/portfolio/work3/</guid>
+      <guid>https://felipe-torres.github.io/portfolio/work3/</guid>
       <description>&lt;p&gt;Lightmapping of a single room with static lights for a project targeted for mobile, both Android and iOS.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
@@ -122,22 +122,22 @@ Rotation constraints help to avoid unnatural behavior.
 
 &lt;p&gt;With this solution, it ran at about 30 fps even on a 1gb ram iPhone 5.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://felipe-torres.github.io/img/portfolio/lightmapping/BodaLightmapping.gif#center-resize&#34; alt=&#34;Room Lightmapping&#34; title=&#34;Room lightmapping&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/lightmapping/BodaLightmapping.gif#center-resize&#34; alt=&#34;Room Lightmapping&#34; title=&#34;Room lightmapping&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This work was developed while working at &lt;strong&gt;Yeltic&lt;/strong&gt;: &lt;a href=&#34;http://yeltic.com/en/&#34;&gt;http://yeltic.com/en/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Optimization: Additive scene loader</title>
-      <link>http://felipe-torres.github.io/portfolio/work4/</link>
+      <link>https://felipe-torres.github.io/portfolio/work4/</link>
       <pubDate>Fri, 05 Aug 2016 19:50:47 +0530</pubDate>
       
-      <guid>http://felipe-torres.github.io/portfolio/work4/</guid>
+      <guid>https://felipe-torres.github.io/portfolio/work4/</guid>
       <description>&lt;p&gt;A reusable Unity component to use in conjunction with the Cinema Director timeline to additively load scenes in Unity.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://felipe-torres.github.io/img/portfolio/additiveSceneLoader/AdditiveSceneLoader.jpg#center-resize&#34; alt=&#34;Additive scene loader&#34; title=&#34;Additive loader component&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/additiveSceneLoader/AdditiveSceneLoader.jpg#center-resize&#34; alt=&#34;Additive scene loader&#34; title=&#34;Additive loader component&#34; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -168,25 +168,25 @@ Rotation constraints help to avoid unnatural behavior.
 &lt;/ul&gt;
 
 &lt;p&gt;Before:
-&lt;img src=&#34;http://felipe-torres.github.io/img/portfolio/additiveSceneLoader/AdditiveSceneLoader_Comparison_1.jpg#center-resize&#34; alt=&#34;Before&#34; title=&#34;Before additive loader&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/additiveSceneLoader/AdditiveSceneLoader_Comparison_1.jpg#center-resize&#34; alt=&#34;Before&#34; title=&#34;Before additive loader&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;After:
-&lt;img src=&#34;http://felipe-torres.github.io/img/portfolio/additiveSceneLoader/AdditiveSceneLoader_Comparison_2.jpg#center-resize&#34; alt=&#34;After&#34; title=&#34;After additive loader&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/additiveSceneLoader/AdditiveSceneLoader_Comparison_2.jpg#center-resize&#34; alt=&#34;After&#34; title=&#34;After additive loader&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This work was developed while working at &lt;strong&gt;Yeltic&lt;/strong&gt;: &lt;a href=&#34;http://yeltic.com/en/&#34;&gt;http://yeltic.com/en/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>VR: Option Selector component</title>
-      <link>http://felipe-torres.github.io/portfolio/work5/</link>
+      <link>https://felipe-torres.github.io/portfolio/work5/</link>
       <pubDate>Wed, 05 Oct 2016 19:50:47 +0530</pubDate>
       
-      <guid>http://felipe-torres.github.io/portfolio/work5/</guid>
+      <guid>https://felipe-torres.github.io/portfolio/work5/</guid>
       <description>&lt;p&gt;A reusable Unity component for displaying an array of options in a VR environment&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://felipe-torres.github.io/img/portfolio/optionSelector/SingleOptionSelector.gif#center-resize&#34; alt=&#34;Single option selector&#34; title=&#34;Additive loader component&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/optionSelector/SingleOptionSelector.gif#center-resize&#34; alt=&#34;Single option selector&#34; title=&#34;Additive loader component&#34; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -205,15 +205,15 @@ Rotation constraints help to avoid unnatural behavior.
     
     <item>
       <title>Procedural highway generator</title>
-      <link>http://felipe-torres.github.io/portfolio/work6/</link>
+      <link>https://felipe-torres.github.io/portfolio/work6/</link>
       <pubDate>Mon, 05 Dec 2016 19:50:47 +0530</pubDate>
       
-      <guid>http://felipe-torres.github.io/portfolio/work6/</guid>
+      <guid>https://felipe-torres.github.io/portfolio/work6/</guid>
       <description>&lt;p&gt;Procedural generation of a highway given an array of modules in Unity.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://felipe-torres.github.io/img/portfolio/highwayGenerator/PathGeneration_AirView.gif#center-resize&#34; alt=&#34;Highway generation skyview&#34; title=&#34;Generation skyview&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/highwayGenerator/PathGeneration_AirView.gif#center-resize&#34; alt=&#34;Highway generation skyview&#34; title=&#34;Generation skyview&#34; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -226,17 +226,17 @@ Rotation constraints help to avoid unnatural behavior.
 &lt;/blockquote&gt;
 
 &lt;p&gt;As stated above, the solution needs a group of &amp;lsquo;&lt;em&gt;modular prefabs&lt;/em&gt;&amp;rsquo;. These modules need to have a common origin pivot, so the pieces can connect to each other successfully. For example:
-&lt;img src=&#34;http://felipe-torres.github.io/img/portfolio/highwayGenerator/Modules.jpg#center-resize&#34; alt=&#34;Module examples&#34; title=&#34;Module examples&#34; /&gt;
+&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/highwayGenerator/Modules.jpg#center-resize&#34; alt=&#34;Module examples&#34; title=&#34;Module examples&#34; /&gt;
 As seen above, each highway piece can have a turning angle. This generator takes these angles into account when connecting together the modules, automatically aligning them according to the last generated piece. Also, each module is given a probability value, to make some modules more likely to appear than others. With this, modules wouldn&amp;rsquo;t &amp;ldquo;collide&amp;rdquo; with each other (for example, by spawning multiple turns to the same side).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://felipe-torres.github.io/img/portfolio/highwayGenerator/PathGeneration_Game.gif#center-resize&#34; alt=&#34;Generation 3rd person&#34; title=&#34;Generation 3rd person&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/highwayGenerator/PathGeneration_Game.gif#center-resize&#34; alt=&#34;Generation 3rd person&#34; title=&#34;Generation 3rd person&#34; /&gt;
 The next step was to make the pickup actually traverse the road. To do this, I made a controller that uses waypoints in conjunction with the incredible plugin &lt;strong&gt;&lt;a href=&#34;http://dotween.demigiant.com/&#34;&gt;DOTween&lt;/a&gt;&lt;/strong&gt; (Get it, it&amp;rsquo;s awesome and free!).&lt;/p&gt;
 
 &lt;p&gt;As you can see from the next image, the generator maintains a (configurable) maximum amount of modules at all times, attaching new modules forward, and destroying modules on the back. It also keeps the player on the middle, so that this creation/destruction is not visible to him.
-&lt;img src=&#34;http://felipe-torres.github.io/img/portfolio/highwayGenerator/PathGeneration_Scene.gif#center-resize&#34; alt=&#34;Generation sceneview&#34; title=&#34;Generation sceneview&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/highwayGenerator/PathGeneration_Scene.gif#center-resize&#34; alt=&#34;Generation sceneview&#34; title=&#34;Generation sceneview&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;On the next image you can see the results from a VR perspective running on Occulus.
-&lt;img src=&#34;http://felipe-torres.github.io/img/portfolio/highwayGenerator/PathGeneration_VR.gif#center-resize&#34; alt=&#34;Generation ingame&#34; title=&#34;Generation ingame&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/highwayGenerator/PathGeneration_VR.gif#center-resize&#34; alt=&#34;Generation ingame&#34; title=&#34;Generation ingame&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This work was developed while working at &lt;strong&gt;Yeltic&lt;/strong&gt;: &lt;a href=&#34;http://yeltic.com/en/&#34;&gt;http://yeltic.com/en/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
