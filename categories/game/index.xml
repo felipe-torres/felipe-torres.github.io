@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game on Felipe Torres | Game Developer Portfolio</title>
+    <link>https://felipe-torres.github.io/categories/game/index.xml</link>
+    <description>Recent content in Game on Felipe Torres | Game Developer Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2016 Felipe Torres Perugachi</copyright>
+    <atom:link href="https://felipe-torres.github.io/categories/game/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Don&#39;t Drop the Bass</title>
+      <link>https://felipe-torres.github.io/portfolio/dontDropTheBass/</link>
+      <pubDate>Fri, 10 Mar 2017 18:25:22 +0530</pubDate>
+      
+      <guid>https://felipe-torres.github.io/portfolio/dontDropTheBass/</guid>
+      <description>&lt;p&gt;3D physics-based, local couch wars game made in Unity about slapping a fish. Released on Steam.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/dontDropTheBass/promo_wide.jpg#center-resize&#34; alt=&#34;Main Promo&#34; title=&#34;Promo for the game&#34; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;trailer&#34;&gt;Trailer&lt;/h4&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/_RN3sPByA8U&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h5 id=&#34;general-info&#34;&gt;General Info&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Developer:&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;http://www.radishbox.com/&#34;&gt;RadishBox&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Release date:&lt;/strong&gt;
+17 March, 2017&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Platforms:&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;http://store.steampowered.com/app/471220/&#34;&gt;Steam (PC, Mac)&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Website:&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;radishbox.com/dontdropthebass/&#34;&gt;radishbox.com/dontdropthebass&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;description&#34;&gt;Description&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Gone are the days of imagining you and your friends as fit duck-men slapping a bass with wooden boards. Now, it’s still impossible, but with Don’t Drop the Bass, you are a step closer. Cooperate and keep the bass in the air for as long as possible or compete to become the bass emperor in this local multiplayer sports game where up to four players can participate.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h5 id=&#34;game-modes&#34;&gt;Game Modes&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Co-op mode (1-4 players): Everyone tries to keep the bass in the air and at the center of the stage for as long as lives hold out. Random stage events take place, with increasing difficulty and eventually overlapping.&lt;/li&gt;
+&lt;li&gt;Roulette Versus mode (2-4 players): Every player keeps the bass in the air during their turn and attacks during other&amp;rsquo;s. Items and powerups help players get to the bass or stop other players from doing so.&lt;/li&gt;
+&lt;li&gt;Slap Versus mode (2-4 players): Whoever slaps the bass the most inside their area during a limited amount of time, wins. Items and powerups are also used here.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;features&#34;&gt;Features&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Configurable match settings&lt;/li&gt;
+&lt;li&gt;Unlockable hats &amp;amp; &amp;ldquo;basses&amp;rdquo;!&lt;/li&gt;
+&lt;li&gt;Compete against other&amp;rsquo;s scores and climb through the Steam Leaderboard ranks!&lt;/li&gt;
+&lt;li&gt;Random events on Coop!&lt;/li&gt;
+&lt;li&gt;Items &amp;amp; Powerups on Versus!&lt;/li&gt;
+&lt;li&gt;Full controller and keyboard support&lt;/li&gt;
+&lt;li&gt;State-of-the-art fish slapping physics!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/dontDropTheBass/coop.gif#center-resize&#34; alt=&#34;Coop&#34; title=&#34;Coop mode&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;roles-tasks&#34;&gt;Roles &amp;amp; Tasks&lt;/h4&gt;
+
+&lt;p&gt;I worked on this game with my artist friend Pablo Mendizabal (You can check more of his amazing work &lt;strong&gt;&lt;a href=&#34;https://pablom2.artstation.com/&#34;&gt;here&lt;/a&gt;&lt;/strong&gt;). We developed the concept, came up with the mechanics, planned &amp;amp; managed the development and release via Steam.&lt;/p&gt;
+
+&lt;p&gt;Being a part of a two-man team, I occuppied different roles with varying tasks from concept creation to delivering the final product:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Game design:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Came up with core game mechanics and expanding around them. Prototype testing and game balancing.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Project management:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Used &lt;strong&gt;&lt;a href=&#34;https://trello.com/&#34;&gt;Trello&lt;/a&gt;&lt;/strong&gt; as a kanban board to organize and delegate tasks.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Software engineering:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Designed and developed the game architecture. Managed version control with &lt;strong&gt;&lt;a href=&#34;https://bitbucket.org/&#34;&gt;Git+Bitbucket&lt;/a&gt;&lt;/strong&gt;. Planned and carried out tests.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Gameplay, UI and shader programming:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Developed designed game mechanics. Programmed the technical solution based on the designed architecture. Coded high and low level behaviours. Co-designed and programmed the UI. Coded surface shaders. Integrated the &lt;strong&gt;&lt;a href=&#34;https://partner.steamgames.com/&#34;&gt;Steamworks API&lt;/a&gt;&lt;/strong&gt; inside Unity.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Produced background music with &lt;strong&gt;&lt;a href=&#34;https://www.image-line.com/flstudio/&#34;&gt;FLStudio&lt;/a&gt;&lt;/strong&gt;. Programmed music and sfx behaviours in-game.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Marketing:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Helped stablish social media and generate promotional content. Mounted the game and studio&amp;rsquo;s landing page website. Organized press coverage and beta/public key distributions.&lt;/p&gt;
+
+&lt;h4 id=&#34;additional-links&#34;&gt;Additional Links&lt;/h4&gt;
+
+&lt;p&gt;Some additional links regarding this game:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;*&lt;em&gt;Store page:&lt;/em&gt;
+&lt;strong&gt;&lt;a href=&#34;http://store.steampowered.com/app/471220/&#34;&gt;Steam (PC, Mac)&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Press:&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;http://radishbox.com/press/sheet.php?p=Dont_Drop_the_Bass&#34;&gt;Press sheet &amp;amp; kit&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Platforms:&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;https://madewith.unity.com/en/games/dont-drop-the-bass&#34;&gt;Made With Unity&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Story:&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;https://madewith.unity.com/en/stories/game-design-in-dont-drop-the-bass&#34;&gt;Game Design in Don&amp;rsquo;t Drop the Bass&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/dontDropTheBass/dance.gif#center-resize&#34; alt=&#34;Dance&#34; title=&#34;Dance&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>¡Ponte Trucha!</title>
+      <link>https://felipe-torres.github.io/portfolio/ponteTrucha/</link>
+      <pubDate>Fri, 10 Mar 2017 18:25:22 +0530</pubDate>
+      
+      <guid>https://felipe-torres.github.io/portfolio/ponteTrucha/</guid>
+      <description>&lt;p&gt;Android mobile game that teaches children how to pack a GoBag (supply bag for emergency situations).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/ponteTrucha/FeaturedImg.jpg#center-resize&#34; alt=&#34;Main Promo&#34; title=&#34;Promo for the game&#34; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;demo-video&#34;&gt;Demo Video&lt;/h4&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/aqgZpzKbIyM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h5 id=&#34;general-info&#34;&gt;General Info&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Developer:&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;http://www.radishbox.com/&#34;&gt;RadishBox&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Release date:&lt;/strong&gt;
+7 October, 2015&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Platforms:&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.RadishBox.PonteTrucha&#34;&gt;Android&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;description&#34;&gt;Description&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;In ¡Ponte Trucha!, a boy named Manuel Trucha has to prepare a bag to evacuate his house before a natural disaster strikes his hometown. In the first part of the game, help him pack useful things and equipment that will help him during his evacuation. In the second part, guide Manuel through his hometown and get him safely to a safe zone using the items you packed earlier.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This game was developed as a demo project for videogame contest &lt;strong&gt;&lt;a href=&#34;http://kuxtalvideojuegos.weebly.com/&#34;&gt;&amp;ldquo;Kuxtal&amp;rdquo;&lt;/a&gt;&lt;/strong&gt; in 2016 as a reference for the contestants. Kuxtal, organized by the university &lt;a href=&#34;https://tec.mx/&#34;&gt;Instituto Tecnológico de Monterrey&lt;/a&gt; alongside &lt;a href=&#34;https://cadena.ngo/&#34;&gt;CADENA A.C.&lt;/a&gt; and &lt;a href=&#34;http://www.conapred.org.mx&#34;&gt;CONAPRED&lt;/a&gt;, aimed to develop educational videogames to teach security protocols for little children living in zones prone to natural disasters.&lt;/p&gt;
+
+&lt;h5 id=&#34;game-design-mechanics&#34;&gt;Game Design &amp;amp; Mechanics&lt;/h5&gt;
+
+&lt;p&gt;We chose two learning aspects as goals for our game, based on research documents provided by &lt;a href=&#34;https://cadena.ngo/&#34;&gt;CADENA A.C.&lt;/a&gt;:
+* Learn how to pack a GoBag in order to reach a safe spot.
+* A person packing a GoBag should pack: non perishable food, bottled water, higiene items, and adequate clothing and shoes.&lt;/p&gt;
+
+&lt;p&gt;These goals, translated to game mechanics were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Each level in the game comprises two stages.&lt;/li&gt;
+&lt;li&gt;On stage one, the player chooses what to pack inside the bag.&lt;/li&gt;
+&lt;li&gt;On the second stage, the player needs to reach point B (a safe spot) from point A (his house) traversing a tiled map.&lt;/li&gt;
+&lt;li&gt;Obstacles and incidents appear randomly on the map. Different events can happen for different scenarios.&lt;/li&gt;
+&lt;li&gt;There are two scenarios: a town fire and a flood.&lt;/li&gt;
+&lt;li&gt;Each scenario is comprised of three levels of increasing difficulty. The larger the map, the more difficult it is to survive.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;features&#34;&gt;Features&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Procedurally generated maps, with randomly placed obstacles, incidents and randomly shaped bag.&lt;/li&gt;
+&lt;li&gt;Two emergency scenarios: fire and flood.&lt;/li&gt;
+&lt;li&gt;Feedback and info on relevant learning aspects.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/ponteTrucha/ScreenshotBag.jpg#center-resize&#34; alt=&#34;Screenshot bag&#34; title=&#34;GoBag&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;roles-tasks&#34;&gt;Roles &amp;amp; Tasks&lt;/h4&gt;
+
+&lt;p&gt;I worked on this game with my artist friend Pablo Mendizabal (You can check more of his amazing work &lt;strong&gt;&lt;a href=&#34;https://pablom2.artstation.com/&#34;&gt;here&lt;/a&gt;&lt;/strong&gt;). We developed the concept, came up with the mechanics, planned &amp;amp; managed the development and release via Google Play.&lt;/p&gt;
+
+&lt;p&gt;Being a part of a two-man team, I occuppied different roles with varying tasks from concept creation to delivering the final product:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Game design:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Came up with core game mechanics and expanding around them. Paper prototype testing and game balancing.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Project management:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Used &lt;strong&gt;&lt;a href=&#34;https://trello.com/&#34;&gt;Trello&lt;/a&gt;&lt;/strong&gt; as a kanban board to organize and delegate tasks.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Software engineering:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Designed and developed the game architecture. Managed version control with &lt;strong&gt;&lt;a href=&#34;https://bitbucket.org/&#34;&gt;Git+Bitbucket&lt;/a&gt;&lt;/strong&gt;. Planned and carried out tests.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Gameplay, UI and shader programming:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Developed designed game mechanics. Programmed the technical solution based on the designed architecture. Coded high and low level behaviours. Co-designed and programmed the UI. Coded surface shaders. Integrated the &lt;strong&gt;&lt;a href=&#34;https://partner.steamgames.com/&#34;&gt;Steamworks API&lt;/a&gt;&lt;/strong&gt; inside Unity.&lt;/p&gt;
+
+&lt;h4 id=&#34;additional-links&#34;&gt;Additional Links&lt;/h4&gt;
+
+&lt;p&gt;Some additional links regarding this game:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Store page:&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.RadishBox.PonteTrucha&#34;&gt;Google Play&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Press:&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;http://radishbox.com/press/sheet.php?p=Dont_Drop_the_Bass&#34;&gt;Press sheet &amp;amp; kit&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Platforms:&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;https://madewith.unity.com/en/games/dont-drop-the-bass&#34;&gt;Made With Unity&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Story:&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;https://madewith.unity.com/en/stories/game-design-in-dont-drop-the-bass&#34;&gt;Game Design in Don&amp;rsquo;t Drop the Bass&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/ponteTrucha/ScreenshotWorld.jpg#center-resize&#34; alt=&#34;ScreenshotWorld&#34; title=&#34;ScreenshotWorld&#34; /&gt;
+&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/ponteTrucha/ScreenshotDeath.jpg#center-resize&#34; alt=&#34;ScreenshotWorld&#34; title=&#34;ScreenshotDeath&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

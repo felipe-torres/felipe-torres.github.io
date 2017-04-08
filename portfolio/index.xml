@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Felipe Torres | Game Developer Portfolio</title>
+    <link>https://felipe-torres.github.io/portfolio/index.xml</link>
+    <description>Recent content in Portfolios on Felipe Torres | Game Developer Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2016 Felipe Torres Perugachi</copyright>
+    <lastBuildDate>Fri, 10 Mar 2017 18:25:22 +0530</lastBuildDate>
+    <atom:link href="https://felipe-torres.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Don&#39;t Drop the Bass</title>
+      <link>https://felipe-torres.github.io/portfolio/dontDropTheBass/</link>
+      <pubDate>Fri, 10 Mar 2017 18:25:22 +0530</pubDate>
+      
+      <guid>https://felipe-torres.github.io/portfolio/dontDropTheBass/</guid>
+      <description>&lt;p&gt;3D physics-based, local couch wars game made in Unity about slapping a fish. Released on Steam.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/dontDropTheBass/promo_wide.jpg#center-resize&#34; alt=&#34;Main Promo&#34; title=&#34;Promo for the game&#34; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;trailer&#34;&gt;Trailer&lt;/h4&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/_RN3sPByA8U&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h5 id=&#34;general-info&#34;&gt;General Info&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Developer:&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;http://www.radishbox.com/&#34;&gt;RadishBox&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Release date:&lt;/strong&gt;
+17 March, 2017&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Platforms:&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;http://store.steampowered.com/app/471220/&#34;&gt;Steam (PC, Mac)&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Website:&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;radishbox.com/dontdropthebass/&#34;&gt;radishbox.com/dontdropthebass&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;description&#34;&gt;Description&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Gone are the days of imagining you and your friends as fit duck-men slapping a bass with wooden boards. Now, it’s still impossible, but with Don’t Drop the Bass, you are a step closer. Cooperate and keep the bass in the air for as long as possible or compete to become the bass emperor in this local multiplayer sports game where up to four players can participate.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h5 id=&#34;game-modes&#34;&gt;Game Modes&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Co-op mode (1-4 players): Everyone tries to keep the bass in the air and at the center of the stage for as long as lives hold out. Random stage events take place, with increasing difficulty and eventually overlapping.&lt;/li&gt;
+&lt;li&gt;Roulette Versus mode (2-4 players): Every player keeps the bass in the air during their turn and attacks during other&amp;rsquo;s. Items and powerups help players get to the bass or stop other players from doing so.&lt;/li&gt;
+&lt;li&gt;Slap Versus mode (2-4 players): Whoever slaps the bass the most inside their area during a limited amount of time, wins. Items and powerups are also used here.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;features&#34;&gt;Features&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Configurable match settings&lt;/li&gt;
+&lt;li&gt;Unlockable hats &amp;amp; &amp;ldquo;basses&amp;rdquo;!&lt;/li&gt;
+&lt;li&gt;Compete against other&amp;rsquo;s scores and climb through the Steam Leaderboard ranks!&lt;/li&gt;
+&lt;li&gt;Random events on Coop!&lt;/li&gt;
+&lt;li&gt;Items &amp;amp; Powerups on Versus!&lt;/li&gt;
+&lt;li&gt;Full controller and keyboard support&lt;/li&gt;
+&lt;li&gt;State-of-the-art fish slapping physics!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/dontDropTheBass/coop.gif#center-resize&#34; alt=&#34;Coop&#34; title=&#34;Coop mode&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;roles-tasks&#34;&gt;Roles &amp;amp; Tasks&lt;/h4&gt;
+
+&lt;p&gt;I worked on this game with my artist friend Pablo Mendizabal (You can check more of his amazing work &lt;strong&gt;&lt;a href=&#34;https://pablom2.artstation.com/&#34;&gt;here&lt;/a&gt;&lt;/strong&gt;). We developed the concept, came up with the mechanics, planned &amp;amp; managed the development and release via Steam.&lt;/p&gt;
+
+&lt;p&gt;Being a part of a two-man team, I occuppied different roles with varying tasks from concept creation to delivering the final product:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Game design:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Came up with core game mechanics and expanding around them. Prototype testing and game balancing.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Project management:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Used &lt;strong&gt;&lt;a href=&#34;https://trello.com/&#34;&gt;Trello&lt;/a&gt;&lt;/strong&gt; as a kanban board to organize and delegate tasks.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Software engineering:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Designed and developed the game architecture. Managed version control with &lt;strong&gt;&lt;a href=&#34;https://bitbucket.org/&#34;&gt;Git+Bitbucket&lt;/a&gt;&lt;/strong&gt;. Planned and carried out tests.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Gameplay, UI and shader programming:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Developed designed game mechanics. Programmed the technical solution based on the designed architecture. Coded high and low level behaviours. Co-designed and programmed the UI. Coded surface shaders. Integrated the &lt;strong&gt;&lt;a href=&#34;https://partner.steamgames.com/&#34;&gt;Steamworks API&lt;/a&gt;&lt;/strong&gt; inside Unity.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Produced background music with &lt;strong&gt;&lt;a href=&#34;https://www.image-line.com/flstudio/&#34;&gt;FLStudio&lt;/a&gt;&lt;/strong&gt;. Programmed music and sfx behaviours in-game.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Marketing:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Helped stablish social media and generate promotional content. Mounted the game and studio&amp;rsquo;s landing page website. Organized press coverage and beta/public key distributions.&lt;/p&gt;
+
+&lt;h4 id=&#34;additional-links&#34;&gt;Additional Links&lt;/h4&gt;
+
+&lt;p&gt;Some additional links regarding this game:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;*&lt;em&gt;Store page:&lt;/em&gt;
+&lt;strong&gt;&lt;a href=&#34;http://store.steampowered.com/app/471220/&#34;&gt;Steam (PC, Mac)&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Press:&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;http://radishbox.com/press/sheet.php?p=Dont_Drop_the_Bass&#34;&gt;Press sheet &amp;amp; kit&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Platforms:&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;https://madewith.unity.com/en/games/dont-drop-the-bass&#34;&gt;Made With Unity&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Story:&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;https://madewith.unity.com/en/stories/game-design-in-dont-drop-the-bass&#34;&gt;Game Design in Don&amp;rsquo;t Drop the Bass&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/dontDropTheBass/dance.gif#center-resize&#34; alt=&#34;Dance&#34; title=&#34;Dance&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shader: Texture Blending</title>
+      <link>https://felipe-torres.github.io/portfolio/textureBlending/</link>
+      <pubDate>Mon, 05 Sep 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://felipe-torres.github.io/portfolio/textureBlending/</guid>
+      <description>&lt;p&gt;A Unity3D shader that blends between two given textures and applies an optional tint color to them. Used primarily for special effects and texture transitioning.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/textureBlending/TextureBlending.gif#center-resize&#34; alt=&#34;Texture Blending&#34; title=&#34;Texture blending component&#34; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I developed this simple shader in Unity3D at &lt;strong&gt;&lt;a href=&#34;http://yeltic.com/en/&#34;&gt;Yeltic&lt;/a&gt;&lt;/strong&gt; as a solution for these problems:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;We had a scene with all baked lights, targeted for mobile. Which meant, no dynamic lights or shadows could be used.&lt;/li&gt;
+&lt;li&gt;We needed some way to &amp;ldquo;transition&amp;rdquo; a material&amp;rsquo;s texture for another. It was undesirable to simply swap textures at runtime. This particular effect was used as a means to transition between lightmaps and also to &amp;ldquo;animate&amp;rdquo; clothing textures getting wet.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I created also a component to easily animate materials using this shader, so we could achieve some ambient effects for the scene.&lt;/p&gt;
+
+&lt;p&gt;This way, we could transition to and from different colors:
+&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/textureBlending/TextureBlendingColors.gif#center-resize&#34; alt=&#34;Texture Blending&#34; title=&#34;Texture blending with colors&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And also textures:
+&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/textureBlending/TextureBlendingTextures.gif#center-resize&#34; alt=&#34;Texture Blending&#34; title=&#34;Texture blending&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This work was developed while working at &lt;strong&gt;Yeltic&lt;/strong&gt;: &lt;a href=&#34;http://yeltic.com/en/&#34;&gt;http://yeltic.com/en/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Character head and eye tracking</title>
+      <link>https://felipe-torres.github.io/portfolio/headEyeTracking/</link>
+      <pubDate>Fri, 05 Aug 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://felipe-torres.github.io/portfolio/headEyeTracking/</guid>
+      <description>&lt;p&gt;A script component that enables player tracking for a given character&amp;rsquo;s eyes and head, based on parametrical constraints.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;When you&amp;rsquo;re working on a virtual environment with interactive characters it becomes increasingly clear that these interactions need to be as natural as possible. What&amp;rsquo;s more, it&amp;rsquo;s paramount when the main focus of your virtual experience is education. Imagine having a personal instructor that never looks at you when explaining things. You can imagine things start to get really awkward, right?&lt;/p&gt;
+
+&lt;p&gt;One of the challenges faced by the &lt;strong&gt;&lt;a href=&#34;http://yeltic.com/en/&#34;&gt;Yeltic&lt;/a&gt;&lt;/strong&gt; organization in their virtual trainings was exactly this: characters seemed to lack naturality when interacting with the player.&lt;/p&gt;
+
+&lt;h4 id=&#34;the-solution&#34;&gt;The Solution&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I proposed and developed a solution to this problem: character head and eye tracking. With this technique, combined with corporal, facial animations, and lipsync, characters did really seem more lively, which in turn, made players less uncomfortable around their virtual instructors.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This of course, is nothing new. It&amp;rsquo;s an aspect of npc characterization that has been in game development for long now. Think of how npcs looked at Link when approached in The Legend of Zelda: The Wind Waker, for instance.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/eyeHeadTracking/killerbees.gif#center-resize&#34; alt=&#34;Killer bees&#34; title=&#34;Remember these creepy little guys? Yikes!&#34; /&gt;
+&lt;!-- ###### The Legend of Zelda: The Wind Waker is property of Nintendo --&gt;&lt;/p&gt;
+
+&lt;p&gt;Starting with the basic idea of tracking, the first thought that comes to mind is transform&amp;rsquo;s look at operations. We can easily align a transform&amp;rsquo;s rotation to &amp;ldquo;look at&amp;rdquo; a given target. But this solution, unconstrained, can create weird looking results:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/eyeHeadTracking/EyeTrackingNoConstraints.gif#center-resize&#34; alt=&#34;Unconstrained tracking&#34; title=&#34;Unconstrained head tracking&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As you can see, when rotation is unconstrained, things start to look very unnatural. People cannot after all, turn their heads 180 degrees nor can their eyes rotate indefinitely (which ends up in incredibly spooky, scary results!). Another issue with the eyes was that each individual eye must have the same rotation as the other does, unless we want to end up with one eye looking at one direction and the other to somewhere else! Then, I broke this problem in two:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Make a single controller for both eyes which rotate them towards a given target and do not exceed a given angle.&lt;/li&gt;
+&lt;li&gt;Make a controller for the head which rotates it towards a given target and does not exceed a given angle.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For the eyes&amp;rsquo; controller, I used a single center transform between them called EyesCenter. Then, I calculated the angle between the EyesCenter&amp;rsquo;s forward vector and the target&amp;rsquo;s distance vector relative to the EyesCenter. I used this calculated angle with an absolute operation to know if it was bigger than the maximum angle provided. If it wasn&amp;rsquo;t, then the target was in range and the eyes would rotate according to the calculated angle (with a lerp smoothing function). Otherwise, the target was out of the provided range of vision and would return to a default orientation (in this case, I used an identity Quaternion).&lt;/p&gt;
+
+&lt;p&gt;It was very much the same for the head controller but simpler, since it would only need to modify only the head&amp;rsquo;s transform.&lt;/p&gt;
+
+&lt;h4 id=&#34;the-result&#34;&gt;The Result&lt;/h4&gt;
+
+&lt;p&gt;A reusable character component which provides eye contact and head movement for a given target (supporting dynamic target changes), given as parameters: vision range angle, rotation speed, and rotation offset.&lt;br /&gt;
+&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/eyeHeadTracking/EyeTrackingInspector.gif#center-resize&#34; alt=&#34;Inspector component&#34; title=&#34;Inspector component&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Constrained head and eyes tracking with a default pose to return to when out of vision range.
+&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/eyeHeadTracking/EyeTrackingOnOff.gif#center-resize&#34; alt=&#34;Constrained tracking&#34; title=&#34;Constrained tracking with default position&#34; /&gt;
+Support for both horizontal and vertical tracking and constraints.
+&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/eyeHeadTracking/EyeTrackingUpDown.gif#center-resize&#34; alt=&#34;Vertical movement&#34; title=&#34;Vertical tracking&#34; /&gt;
+Rotation constraints help to avoid unnatural behavior.
+&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/eyeHeadTracking/EyeTrackingBack.gif#center-resize&#34; alt=&#34;Back movement&#34; title=&#34;Unnatural possessed head rotations no more!&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It is worth acknowledging that this component has its limitations and may be improved on some aspects:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Maybe it&amp;rsquo;s not desirable to return to a default pose, maybe it would be better to leave the rotation as the last rotation when the target left the range of vision.&lt;/li&gt;
+&lt;li&gt;It requires the character&amp;rsquo;s avatar to be modified: no control bone for any of the eyes nor the head. This means that if there are any animations that animate these bones, those animations for said bones will be ignored.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This work was developed while working at Yeltic: &lt;a href=&#34;http://yeltic.com/en/&#34;&gt;http://yeltic.com/en/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Room lightmapping</title>
+      <link>https://felipe-torres.github.io/portfolio/roomLightmapping/</link>
+      <pubDate>Mon, 05 Sep 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://felipe-torres.github.io/portfolio/roomLightmapping/</guid>
+      <description>&lt;p&gt;Lightmapping of a single room with static lights for a project targeted for mobile, both Android and iOS.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Since the project&amp;rsquo;s target platform was mobile, both iOS and Android, it had to run pretty smoothly. What&amp;rsquo;s more, it needed to run on stereoscopic view, for the Google Cardboard.&lt;/p&gt;
+
+&lt;p&gt;With this solution, it ran at about 30 fps even on a 1gb ram iPhone 5.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/lightmapping/BodaLightmapping.gif#center-resize&#34; alt=&#34;Room Lightmapping&#34; title=&#34;Room lightmapping&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This work was developed while working at &lt;strong&gt;Yeltic&lt;/strong&gt;: &lt;a href=&#34;http://yeltic.com/en/&#34;&gt;http://yeltic.com/en/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Optimization: Additive scene loader</title>
+      <link>https://felipe-torres.github.io/portfolio/additiveSceneLoader/</link>
+      <pubDate>Fri, 05 Aug 2016 19:50:47 +0530</pubDate>
+      
+      <guid>https://felipe-torres.github.io/portfolio/additiveSceneLoader/</guid>
+      <description>&lt;p&gt;A reusable Unity component to use in conjunction with the Cinema Director timeline to additively load scenes in Unity.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/additiveSceneLoader/AdditiveSceneLoader.jpg#center-resize&#34; alt=&#34;Additive scene loader&#34; title=&#34;Additive loader component&#34; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;the-problem&#34;&gt;The Problem&lt;/h4&gt;
+
+&lt;p&gt;One of the constraints we had for a project was that it needed to be ran in an iPhone 5 with stereoscopic vision enabled (Google Cardboard). This meant we only had to 1gb of RAM to work with and, since all our environment was 3D and contained many audio and graphical assets, several steps were taken to assure it worked as smoothly as possible, without any memory leaks or crashes.&lt;/p&gt;
+
+&lt;p&gt;After optimizing all assets as much as possible, without compromising too much quality, the app ran smoothly, but would suddenly crash. After memory monitoring both in the Unity profiler and in the Instruments application on Mac, it was clear too many assets were loaded into memory.&lt;/p&gt;
+
+&lt;h4 id=&#34;the-solution&#34;&gt;The Solution&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I designed and developed a solution to split our interactions and scene structure in different scenes to reduce the overall number of assets loaded in memory.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This solution comprised the loading and unloading of scenes, both additively and asynchronously, to be as unnoticeable to the user as possible (keeping loading times as short as could be achieved).&lt;/p&gt;
+
+&lt;p&gt;After splitting the project in additive scenes, the app suffered no longer from memory crashes on the device.&lt;/p&gt;
+
+&lt;p&gt;Profiler comparison before and after applying this optimization is as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Textures reduced from 231.9 MB to 190.2 MB&lt;/li&gt;
+&lt;li&gt;Meshes reduced from 79.4 MB to 58.6 MB&lt;/li&gt;
+&lt;li&gt;AudioClips reduced from 139.3 MB to 69.1 MB&lt;/li&gt;
+&lt;li&gt;Number of objects in scene reduced from 114115 to 5244&lt;/li&gt;
+&lt;li&gt;Game Objects in scene reduced from 4528 to 1637&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Before:
+&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/additiveSceneLoader/AdditiveSceneLoader_Comparison_1.jpg#center-resize&#34; alt=&#34;Before&#34; title=&#34;Before additive loader&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After:
+&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/additiveSceneLoader/AdditiveSceneLoader_Comparison_2.jpg#center-resize&#34; alt=&#34;After&#34; title=&#34;After additive loader&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This work was developed while working at &lt;strong&gt;Yeltic&lt;/strong&gt;: &lt;a href=&#34;http://yeltic.com/en/&#34;&gt;http://yeltic.com/en/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>¡Ponte Trucha!</title>
+      <link>https://felipe-torres.github.io/portfolio/ponteTrucha/</link>
+      <pubDate>Fri, 10 Mar 2017 18:25:22 +0530</pubDate>
+      
+      <guid>https://felipe-torres.github.io/portfolio/ponteTrucha/</guid>
+      <description>&lt;p&gt;Android mobile game that teaches children how to pack a GoBag (supply bag for emergency situations).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/ponteTrucha/FeaturedImg.jpg#center-resize&#34; alt=&#34;Main Promo&#34; title=&#34;Promo for the game&#34; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;demo-video&#34;&gt;Demo Video&lt;/h4&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/aqgZpzKbIyM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h5 id=&#34;general-info&#34;&gt;General Info&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Developer:&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;http://www.radishbox.com/&#34;&gt;RadishBox&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Release date:&lt;/strong&gt;
+7 October, 2015&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Platforms:&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.RadishBox.PonteTrucha&#34;&gt;Android&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;description&#34;&gt;Description&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;In ¡Ponte Trucha!, a boy named Manuel Trucha has to prepare a bag to evacuate his house before a natural disaster strikes his hometown. In the first part of the game, help him pack useful things and equipment that will help him during his evacuation. In the second part, guide Manuel through his hometown and get him safely to a safe zone using the items you packed earlier.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This game was developed as a demo project for videogame contest &lt;strong&gt;&lt;a href=&#34;http://kuxtalvideojuegos.weebly.com/&#34;&gt;&amp;ldquo;Kuxtal&amp;rdquo;&lt;/a&gt;&lt;/strong&gt; in 2016 as a reference for the contestants. Kuxtal, organized by the university &lt;a href=&#34;https://tec.mx/&#34;&gt;Instituto Tecnológico de Monterrey&lt;/a&gt; alongside &lt;a href=&#34;https://cadena.ngo/&#34;&gt;CADENA A.C.&lt;/a&gt; and &lt;a href=&#34;http://www.conapred.org.mx&#34;&gt;CONAPRED&lt;/a&gt;, aimed to develop educational videogames to teach security protocols for little children living in zones prone to natural disasters.&lt;/p&gt;
+
+&lt;h5 id=&#34;game-design-mechanics&#34;&gt;Game Design &amp;amp; Mechanics&lt;/h5&gt;
+
+&lt;p&gt;We chose two learning aspects as goals for our game, based on research documents provided by &lt;a href=&#34;https://cadena.ngo/&#34;&gt;CADENA A.C.&lt;/a&gt;:
+* Learn how to pack a GoBag in order to reach a safe spot.
+* A person packing a GoBag should pack: non perishable food, bottled water, higiene items, and adequate clothing and shoes.&lt;/p&gt;
+
+&lt;p&gt;These goals, translated to game mechanics were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Each level in the game comprises two stages.&lt;/li&gt;
+&lt;li&gt;On stage one, the player chooses what to pack inside the bag.&lt;/li&gt;
+&lt;li&gt;On the second stage, the player needs to reach point B (a safe spot) from point A (his house) traversing a tiled map.&lt;/li&gt;
+&lt;li&gt;Obstacles and incidents appear randomly on the map. Different events can happen for different scenarios.&lt;/li&gt;
+&lt;li&gt;There are two scenarios: a town fire and a flood.&lt;/li&gt;
+&lt;li&gt;Each scenario is comprised of three levels of increasing difficulty. The larger the map, the more difficult it is to survive.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;features&#34;&gt;Features&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Procedurally generated maps, with randomly placed obstacles, incidents and randomly shaped bag.&lt;/li&gt;
+&lt;li&gt;Two emergency scenarios: fire and flood.&lt;/li&gt;
+&lt;li&gt;Feedback and info on relevant learning aspects.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/ponteTrucha/ScreenshotBag.jpg#center-resize&#34; alt=&#34;Screenshot bag&#34; title=&#34;GoBag&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;roles-tasks&#34;&gt;Roles &amp;amp; Tasks&lt;/h4&gt;
+
+&lt;p&gt;I worked on this game with my artist friend Pablo Mendizabal (You can check more of his amazing work &lt;strong&gt;&lt;a href=&#34;https://pablom2.artstation.com/&#34;&gt;here&lt;/a&gt;&lt;/strong&gt;). We developed the concept, came up with the mechanics, planned &amp;amp; managed the development and release via Google Play.&lt;/p&gt;
+
+&lt;p&gt;Being a part of a two-man team, I occuppied different roles with varying tasks from concept creation to delivering the final product:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Game design:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Came up with core game mechanics and expanding around them. Paper prototype testing and game balancing.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Project management:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Used &lt;strong&gt;&lt;a href=&#34;https://trello.com/&#34;&gt;Trello&lt;/a&gt;&lt;/strong&gt; as a kanban board to organize and delegate tasks.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Software engineering:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Designed and developed the game architecture. Managed version control with &lt;strong&gt;&lt;a href=&#34;https://bitbucket.org/&#34;&gt;Git+Bitbucket&lt;/a&gt;&lt;/strong&gt;. Planned and carried out tests.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Gameplay, UI and shader programming:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Developed designed game mechanics. Programmed the technical solution based on the designed architecture. Coded high and low level behaviours. Co-designed and programmed the UI. Coded surface shaders. Integrated the &lt;strong&gt;&lt;a href=&#34;https://partner.steamgames.com/&#34;&gt;Steamworks API&lt;/a&gt;&lt;/strong&gt; inside Unity.&lt;/p&gt;
+
+&lt;h4 id=&#34;additional-links&#34;&gt;Additional Links&lt;/h4&gt;
+
+&lt;p&gt;Some additional links regarding this game:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Store page:&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.RadishBox.PonteTrucha&#34;&gt;Google Play&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Press:&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;http://radishbox.com/press/sheet.php?p=Dont_Drop_the_Bass&#34;&gt;Press sheet &amp;amp; kit&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Platforms:&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;https://madewith.unity.com/en/games/dont-drop-the-bass&#34;&gt;Made With Unity&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Story:&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;https://madewith.unity.com/en/stories/game-design-in-dont-drop-the-bass&#34;&gt;Game Design in Don&amp;rsquo;t Drop the Bass&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/ponteTrucha/ScreenshotWorld.jpg#center-resize&#34; alt=&#34;ScreenshotWorld&#34; title=&#34;ScreenshotWorld&#34; /&gt;
+&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/ponteTrucha/ScreenshotDeath.jpg#center-resize&#34; alt=&#34;ScreenshotWorld&#34; title=&#34;ScreenshotDeath&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>VR: Option Selector component</title>
+      <link>https://felipe-torres.github.io/portfolio/optionSelector/</link>
+      <pubDate>Wed, 05 Oct 2016 19:50:47 +0530</pubDate>
+      
+      <guid>https://felipe-torres.github.io/portfolio/optionSelector/</guid>
+      <description>&lt;p&gt;A reusable Unity component for displaying an array of options in a VR environment&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/optionSelector/SingleOptionSelector.gif#center-resize&#34; alt=&#34;Single option selector&#34; title=&#34;Additive loader component&#34; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;single-option-selector&#34;&gt;Single option selector&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I developed this UI component for instances where the user needs to choose one of multiple options.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For this specific version, a single option is shown at any time. The user can scroll through the options and choose them using configurable inputs.&lt;/p&gt;
+
+&lt;p&gt;During development, the developer defines each option content and action associated to it (a Unity Event) and may choose a prefab to instantiate for each option. The developer can also choose whether to include a response timer or not, and configure the time the user has to choose an option. The developer may also include a default action that occurs if time runs out before the user chooses.&lt;/p&gt;
+
+&lt;p&gt;This work was developed while working at &lt;strong&gt;Yeltic&lt;/strong&gt;: &lt;a href=&#34;http://yeltic.com/en/&#34;&gt;http://yeltic.com/en/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Procedural highway generator</title>
+      <link>https://felipe-torres.github.io/portfolio/highwayGenerator/</link>
+      <pubDate>Mon, 05 Dec 2016 19:50:47 +0530</pubDate>
+      
+      <guid>https://felipe-torres.github.io/portfolio/highwayGenerator/</guid>
+      <description>&lt;p&gt;Procedural generation of a highway given an array of modules in Unity.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/highwayGenerator/PathGeneration_AirView.gif#center-resize&#34; alt=&#34;Highway generation skyview&#34; title=&#34;Generation skyview&#34; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;the-problem&#34;&gt;The Problem&lt;/h4&gt;
+
+&lt;p&gt;This feature was requested for a VR experience where the player needed to be seated on the back of a pickup moving along a highway, for an indefinite amount of time.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I developed this generator to procedurally build a highway from a set of modular prefabs.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As stated above, the solution needs a group of &amp;lsquo;&lt;em&gt;modular prefabs&lt;/em&gt;&amp;rsquo;. These modules need to have a common origin pivot, so the pieces can connect to each other successfully. For example:
+&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/highwayGenerator/Modules.jpg#center-resize&#34; alt=&#34;Module examples&#34; title=&#34;Module examples&#34; /&gt;
+As seen above, each highway piece can have a turning angle. This generator takes these angles into account when connecting together the modules, automatically aligning them according to the last generated piece. Also, each module is given a probability value, to make some modules more likely to appear than others. With this, modules wouldn&amp;rsquo;t &amp;ldquo;collide&amp;rdquo; with each other (for example, by spawning multiple turns to the same side).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/highwayGenerator/PathGeneration_Game.gif#center-resize&#34; alt=&#34;Generation 3rd person&#34; title=&#34;Generation 3rd person&#34; /&gt;
+The next step was to make the pickup actually traverse the road. To do this, I made a controller that uses waypoints in conjunction with the incredible plugin &lt;strong&gt;&lt;a href=&#34;http://dotween.demigiant.com/&#34;&gt;DOTween&lt;/a&gt;&lt;/strong&gt; (Get it, it&amp;rsquo;s awesome and free!).&lt;/p&gt;
+
+&lt;p&gt;As you can see from the next image, the generator maintains a (configurable) maximum amount of modules at all times, attaching new modules forward, and destroying modules on the back. It also keeps the player on the middle, so that this creation/destruction is not visible to him.
+&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/highwayGenerator/PathGeneration_Scene.gif#center-resize&#34; alt=&#34;Generation sceneview&#34; title=&#34;Generation sceneview&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On the next image you can see the results from a VR perspective running on Occulus.
+&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/highwayGenerator/PathGeneration_VR.gif#center-resize&#34; alt=&#34;Generation ingame&#34; title=&#34;Generation ingame&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This work was developed while working at &lt;strong&gt;Yeltic&lt;/strong&gt;: &lt;a href=&#34;http://yeltic.com/en/&#34;&gt;http://yeltic.com/en/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
