@@ -1,79 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Experiment on Felipe Torres | Game Developer Portfolio</title>
-    <link>https://felipe-torres.github.io/categories/experiment/index.xml</link>
-    <description>Recent content in Experiment on Felipe Torres | Game Developer Portfolio</description>
+    <title>experiment on Felipe Torres | Game Developer Portfolio</title>
+    <link>https://felipe-torres.github.io/categories/experiment/</link>
+    <description>Recent content in experiment on Felipe Torres | Game Developer Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;2016 Felipe Torres Perugachi</copyright>
-    <atom:link href="https://felipe-torres.github.io/categories/experiment/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Feb 2016 19:44:32 +0530</lastBuildDate>
+    
+	<atom:link href="https://felipe-torres.github.io/categories/experiment/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Pale Blergh Dot</title>
-      <link>https://felipe-torres.github.io/portfolio/paleBlerghDot/</link>
+      <link>https://felipe-torres.github.io/portfolio/paleblerghdot/</link>
       <pubDate>Wed, 20 Jan 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://felipe-torres.github.io/portfolio/paleBlerghDot/</guid>
-      <description>&lt;p&gt;Exploring the THREE.js webgl framework with a mini solar system.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/paleBlerghDot/paleBlerghDot.gif#center-resize&#34; alt=&#34;Pale Blergh Dot!&#34; title=&#34;Pale Blergh Dot!&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;live-demo&#34;&gt;Live Demo&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.radishbox.com/files/lab/ThreeJs/PaleBlerghDot/&#34;&gt;http://www.radishbox.com/files/lab/ThreeJs/PaleBlerghDot/&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;(Can run on a desktop or mobile browser)&lt;/p&gt;
-
-&lt;h4 id=&#34;what&#34;&gt;What?&lt;/h4&gt;
-
-&lt;p&gt;This experiment done in &lt;strong&gt;&lt;a href=&#34;https://threejs.org/&#34;&gt;THREE.js&lt;/a&gt;&lt;/strong&gt; uses:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Multiple independent particle systems with position and color animations&lt;/li&gt;
-&lt;li&gt;Nested object motion&lt;/li&gt;
-&lt;li&gt;Fog simulation through textures&lt;/li&gt;
-&lt;li&gt;Responsiveness&lt;/li&gt;
-&lt;li&gt;Randomly positioned objects in 3d space&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <guid>https://felipe-torres.github.io/portfolio/paleblerghdot/</guid>
+      <description>&lt;p&gt;Exploring the THREE.js webgl framework with a mini solar system.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Phone Booth Desert</title>
-      <link>https://felipe-torres.github.io/portfolio/phoneboothDesert/</link>
+      <link>https://felipe-torres.github.io/portfolio/phoneboothdesert/</link>
       <pubDate>Sat, 20 Feb 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://felipe-torres.github.io/portfolio/phoneboothDesert/</guid>
-      <description>&lt;p&gt;Experimenting with external calls to the Soundcloud API on a Unity WebGl build.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://felipe-torres.github.io/img/portfolio/phoneBoothDesert/phoneBoothDesert.gif#center-resize&#34; alt=&#34;Phone Booth Desert&#34; title=&#34;Phone Booth Desert&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;live-demo&#34;&gt;Live Demo&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.radishbox.com/files/lab/Unity/PhoneDesert/&#34;&gt;http://www.radishbox.com/files/lab/Unity/PhoneDesert/&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;(May throw a warning if your browsing is running low on memory, cannot run on mobile)&lt;/p&gt;
-
-&lt;h4 id=&#34;what&#34;&gt;What?&lt;/h4&gt;
-
-&lt;p&gt;I made this experiment based on a dream I had once, where I woke up on a red sofa in the middle of a desert filled with phone booths. Each time I picked a receiver it emitted random sounds and voices. I decided to make this dream in Unity and throw in connectivity with the Soundcloud API through the use of external calls.&lt;/p&gt;
-
-&lt;p&gt;This expermient done in &lt;strong&gt;Unity3D&lt;/strong&gt; uses:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.unity3d.com/ScriptReference/Application.ExternalCall.html&#34;&gt;External calls&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developers.soundcloud.com/docs/api/guide&#34;&gt;Soundcloud API&lt;/a&gt; to obtain random tracks and info related to those tracks (artist, track description, image)&lt;/li&gt;
-&lt;li&gt;Lightmapping&lt;/li&gt;
-&lt;li&gt;Models and texturing done in Blender&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <guid>https://felipe-torres.github.io/portfolio/phoneboothdesert/</guid>
+      <description>&lt;p&gt;Experimenting with external calls to the Soundcloud API on a Unity WebGl build.&lt;/p&gt;</description>
     </item>
     
   </channel>

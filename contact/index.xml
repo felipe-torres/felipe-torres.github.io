@@ -1,30 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Contacts on Felipe Torres | Game Developer Portfolio</title>
-    <link>https://felipe-torres.github.io/contact/index.xml</link>
-    <description>Recent content in Contacts on Felipe Torres | Game Developer Portfolio</description>
+    <title>Get in touch on Felipe Torres | Game Developer Portfolio</title>
+    <link>https://felipe-torres.github.io/contact/</link>
+    <description>Recent content in Get in touch on Felipe Torres | Game Developer Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;2016 Felipe Torres Perugachi</copyright>
     <lastBuildDate>Mon, 06 Mar 2017 13:00:25 +0530</lastBuildDate>
-    <atom:link href="https://felipe-torres.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>Get in touch</title>
-      <link>https://felipe-torres.github.io/contact/</link>
-      <pubDate>Mon, 06 Mar 2017 13:00:25 +0530</pubDate>
-      
-      <guid>https://felipe-torres.github.io/contact/</guid>
-      <description>&lt;p&gt;If you need to reach me for anything, feel free to do so by any of the following channels.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; lfelipetorresp@gmail.com&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; (+52)+1+4424362949&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Address:&lt;/strong&gt; Campeche 356, int. 8, Col. Hipódromo Condesa, Mexico City, Mexico.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
+	<atom:link href="https://felipe-torres.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>

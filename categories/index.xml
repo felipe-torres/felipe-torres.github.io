@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Felipe Torres | Game Developer Portfolio</title>
+    <link>https://felipe-torres.github.io/categories/</link>
+    <description>Recent content in Categories on Felipe Torres | Game Developer Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Mar 2017 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="https://felipe-torres.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>game</title>
+      <link>https://felipe-torres.github.io/categories/game/</link>
+      <pubDate>Fri, 10 Mar 2017 18:25:22 +0530</pubDate>
+      
+      <guid>https://felipe-torres.github.io/categories/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gameplay</title>
+      <link>https://felipe-torres.github.io/categories/gameplay/</link>
+      <pubDate>Mon, 05 Dec 2016 19:50:47 +0530</pubDate>
+      
+      <guid>https://felipe-torres.github.io/categories/gameplay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>experiment</title>
+      <link>https://felipe-torres.github.io/categories/experiment/</link>
+      <pubDate>Sat, 20 Feb 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://felipe-torres.github.io/categories/experiment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
