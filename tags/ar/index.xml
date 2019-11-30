@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ar on Felipe Torres | Dev Portfolio</title>
+    <link>https://felipe-torres.github.io/tags/ar/</link>
+    <description>Recent content in ar on Felipe Torres | Dev Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Nov 2019 19:44:32 +0530</lastBuildDate>
+    
+	<atom:link href="https://felipe-torres.github.io/tags/ar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AR Poster</title>
+      <link>https://felipe-torres.github.io/portfolio/arposter/</link>
+      <pubDate>Wed, 20 Nov 2019 19:44:32 +0530</pubDate>
+      
+      <guid>https://felipe-torres.github.io/portfolio/arposter/</guid>
+      <description>&lt;p&gt;Exploring the Unity AR Foundation for image tracking.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
