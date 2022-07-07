@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Felipe Torres | Dev Portfolio</title>
@@ -6,17 +6,22 @@
     <description>Recent content in Tags on Felipe Torres | Dev Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Nov 2019 19:44:32 +0530</lastBuildDate>
-    
-	<atom:link href="https://felipe-torres.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 20 Nov 2019 19:44:32 +0530</lastBuildDate><atom:link href="https://felipe-torres.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ar</title>
       <link>https://felipe-torres.github.io/tags/ar/</link>
       <pubDate>Wed, 20 Nov 2019 19:44:32 +0530</pubDate>
       
       <guid>https://felipe-torres.github.io/tags/ar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>audio</title>
+      <link>https://felipe-torres.github.io/tags/audio/</link>
+      <pubDate>Wed, 20 Nov 2019 19:44:32 +0530</pubDate>
+      
+      <guid>https://felipe-torres.github.io/tags/audio/</guid>
       <description></description>
     </item>
     

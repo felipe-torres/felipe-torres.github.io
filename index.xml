@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Felipe Torres | Dev Portfolio</title>
@@ -6,10 +6,42 @@
     <description>Recent content on Felipe Torres | Dev Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Nov 2019 19:44:32 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2019 19:44:32 +0530</lastBuildDate><atom:link href="https://felipe-torres.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MIDI Lab</title>
+      <link>https://felipe-torres.github.io/portfolio/midilab/</link>
+      <pubDate>Wed, 20 Nov 2019 19:44:32 +0530</pubDate>
+      
+      <guid>https://felipe-torres.github.io/portfolio/midilab/</guid>
+      <description>&lt;p&gt;Exploring the Unity engine as an environment for creating live music visuals through MIDI input.&lt;/p&gt;</description>
+    </item>
     
-	<atom:link href="https://felipe-torres.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kerbal Space Program</title>
+      <link>https://felipe-torres.github.io/portfolio/kerbalspaceprogram/</link>
+      <pubDate>Thu, 05 Sep 2019 19:50:47 +0530</pubDate>
+      
+      <guid>https://felipe-torres.github.io/portfolio/kerbalspaceprogram/</guid>
+      <description>&lt;p&gt;Kerbal Space Program is a 3D space-vessel building and physics-based spaceflight simulation game released for PC, Playstation 4 and XboxOne.&lt;/p&gt;</description>
+    </item>
     
+    <item>
+      <title>Kerbal Space Program 2</title>
+      <link>https://felipe-torres.github.io/portfolio/kerbalspaceprogram2/</link>
+      <pubDate>Thu, 05 Sep 2019 19:50:47 +0530</pubDate>
+      
+      <guid>https://felipe-torres.github.io/portfolio/kerbalspaceprogram2/</guid>
+      <description>&lt;p&gt;Kerbal Space Program 2 is the sequel for KSP, a 3D space-vessel building and physics-based spaceflight simulation game currently in development by Private Division.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t Drop the Bass</title>
+      <link>https://felipe-torres.github.io/portfolio/dontdropthebass/</link>
+      <pubDate>Fri, 10 Mar 2017 18:25:22 +0530</pubDate>
+      
+      <guid>https://felipe-torres.github.io/portfolio/dontdropthebass/</guid>
+      <description>&lt;p&gt;3D physics-based, local couch wars game made in Unity about slapping a fish. Released on Steam.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>AR Poster</title>
@@ -30,21 +62,12 @@
     </item>
     
     <item>
-      <title>Don&#39;t Drop the Bass</title>
-      <link>https://felipe-torres.github.io/portfolio/dontdropthebass/</link>
-      <pubDate>Fri, 10 Mar 2017 18:25:22 +0530</pubDate>
+      <title>Pale Blergh Dot</title>
+      <link>https://felipe-torres.github.io/portfolio/paleblerghdot/</link>
+      <pubDate>Wed, 20 Jan 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://felipe-torres.github.io/portfolio/dontdropthebass/</guid>
-      <description>&lt;p&gt;3D physics-based, local couch wars game made in Unity about slapping a fish. Released on Steam.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Character head and eye tracking</title>
-      <link>https://felipe-torres.github.io/portfolio/headeyetracking/</link>
-      <pubDate>Fri, 05 Aug 2016 18:25:22 +0530</pubDate>
-      
-      <guid>https://felipe-torres.github.io/portfolio/headeyetracking/</guid>
-      <description>&lt;p&gt;A script component that enables player tracking for a given character&amp;rsquo;s eyes and head, based on parametrical constraints.&lt;/p&gt;</description>
+      <guid>https://felipe-torres.github.io/portfolio/paleblerghdot/</guid>
+      <description>&lt;p&gt;Exploring the THREE.js webgl framework with a mini solar system.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -57,12 +80,12 @@
     </item>
     
     <item>
-      <title>Pale Blergh Dot</title>
-      <link>https://felipe-torres.github.io/portfolio/paleblerghdot/</link>
-      <pubDate>Wed, 20 Jan 2016 19:44:32 +0530</pubDate>
+      <title>Character head and eye tracking</title>
+      <link>https://felipe-torres.github.io/portfolio/headeyetracking/</link>
+      <pubDate>Fri, 05 Aug 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://felipe-torres.github.io/portfolio/paleblerghdot/</guid>
-      <description>&lt;p&gt;Exploring the THREE.js webgl framework with a mini solar system.&lt;/p&gt;</description>
+      <guid>https://felipe-torres.github.io/portfolio/headeyetracking/</guid>
+      <description>&lt;p&gt;A script component that enables player tracking for a given character&amp;rsquo;s eyes and head, based on parametrical constraints.&lt;/p&gt;</description>
     </item>
     
     <item>

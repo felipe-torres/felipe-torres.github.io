@@ -127,32 +127,22 @@
       <div class="content-column-content">
          <h1>Procedural highway generator</h1>
          <p>Procedural generation of a highway given an array of modules in Unity.</p>
-
-<p><img src="/img/portfolio/highwayGenerator/PathGeneration_AirView.gif#center-resize" alt="Highway generation skyview" title="Generation skyview" /></p>
-
-<hr />
-
+<p><img src="/img/portfolio/highwayGenerator/PathGeneration_AirView.gif#center-resize" alt="Highway generation skyview" title="Generation skyview"></p>
+<hr>
 <h4 id="the-problem">The Problem</h4>
-
 <p>This feature was requested for a VR experience where the player needed to be seated on the back of a pickup moving along a highway, for an indefinite amount of time.</p>
-
 <blockquote>
 <p>I developed this generator to procedurally build a highway from a set of modular prefabs.</p>
 </blockquote>
-
 <p>As stated above, the solution needs a group of &lsquo;<em>modular prefabs</em>&rsquo;. These modules need to have a common origin pivot, so the pieces can connect to each other successfully. For example:
-<img src="/img/portfolio/highwayGenerator/Modules.jpg#center-resize" alt="Module examples" title="Module examples" />
+<img src="/img/portfolio/highwayGenerator/Modules.jpg#center-resize" alt="Module examples" title="Module examples">
 As seen above, each highway piece can have a turning angle. This generator takes these angles into account when connecting together the modules, automatically aligning them according to the last generated piece. Also, each module is given a probability value, to make some modules more likely to appear than others. With this, modules wouldn&rsquo;t &ldquo;collide&rdquo; with each other (for example, by spawning multiple turns to the same side).</p>
-
-<p><img src="/img/portfolio/highwayGenerator/PathGeneration_Game.gif#center-resize" alt="Generation 3rd person" title="Generation 3rd person" />
+<p><img src="/img/portfolio/highwayGenerator/PathGeneration_Game.gif#center-resize" alt="Generation 3rd person" title="Generation 3rd person">
 The next step was to make the pickup actually traverse the road. To do this, I made a controller that uses waypoints in conjunction with the incredible plugin <strong><a href="http://dotween.demigiant.com/">DOTween</a></strong> (Get it, it&rsquo;s awesome and free!).</p>
-
-<p>As you can see from the next image, the generator maintains a (configurable) maximum amount of modules at all times, attaching new modules forward, and destroying modules on the back. It also keeps the player on the middle, so that this creation/destruction is not visible to him.
-<img src="/img/portfolio/highwayGenerator/PathGeneration_Scene.gif#center-resize" alt="Generation sceneview" title="Generation sceneview" /></p>
-
+<p>As you can see from the next image, the generator maintains a (configurable) maximum amount of modules at all times, attaching new modules forward, and destroying modules on the back. It also keeps the player on the middle, so that this creation/destruction is not visible to him. 
+<img src="/img/portfolio/highwayGenerator/PathGeneration_Scene.gif#center-resize" alt="Generation sceneview" title="Generation sceneview"></p>
 <p>On the next image you can see the results from a VR perspective running on Occulus, with final lighting settings and models.
-<img src="/img/portfolio/highwayGenerator/Recorrido_FinalLook.gif#center-resize" alt="Generation ingame" title="Generation ingame" /></p>
-
+<img src="/img/portfolio/highwayGenerator/Recorrido_FinalLook.gif#center-resize" alt="Generation ingame" title="Generation ingame"></p>
 <p>This work was developed while working at <strong>Yeltic</strong>: <a href="http://yeltic.com/en/">http://yeltic.com/en/</a></p>
          
       </div>

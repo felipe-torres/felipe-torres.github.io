@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>experiment on Felipe Torres | Dev Portfolio</title>
@@ -6,10 +6,15 @@
     <description>Recent content in experiment on Felipe Torres | Dev Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Nov 2019 19:44:32 +0530</lastBuildDate>
-    
-	<atom:link href="https://felipe-torres.github.io/categories/experiment/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Wed, 20 Nov 2019 19:44:32 +0530</lastBuildDate><atom:link href="https://felipe-torres.github.io/categories/experiment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MIDI Lab</title>
+      <link>https://felipe-torres.github.io/portfolio/midilab/</link>
+      <pubDate>Wed, 20 Nov 2019 19:44:32 +0530</pubDate>
+      
+      <guid>https://felipe-torres.github.io/portfolio/midilab/</guid>
+      <description>&lt;p&gt;Exploring the Unity engine as an environment for creating live music visuals through MIDI input.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>AR Poster</title>

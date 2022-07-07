@@ -127,29 +127,18 @@
       <div class="content-column-content">
          <h1>Optimization: Additive scene loader</h1>
          <p>A reusable Unity component to use in conjunction with the Cinema Director timeline to additively load scenes in Unity.</p>
-
-<p><img src="/img/portfolio/additiveSceneLoader/AdditiveSceneLoader.jpg#center-resize" alt="Additive scene loader" title="Additive loader component" /></p>
-
-<hr />
-
+<p><img src="/img/portfolio/additiveSceneLoader/AdditiveSceneLoader.jpg#center-resize" alt="Additive scene loader" title="Additive loader component"></p>
+<hr>
 <h4 id="the-problem">The Problem</h4>
-
 <p>One of the constraints we had for a project was that it needed to be ran in an iPhone 5 with stereoscopic vision enabled (Google Cardboard). This meant we only had to 1gb of RAM to work with and, since all our environment was 3D and contained many audio and graphical assets, several steps were taken to assure it worked as smoothly as possible, without any memory leaks or crashes.</p>
-
 <p>After optimizing all assets as much as possible, without compromising too much quality, the app ran smoothly, but would suddenly crash. After memory monitoring both in the Unity profiler and in the Instruments application on Mac, it was clear too many assets were loaded into memory.</p>
-
 <h4 id="the-solution">The Solution</h4>
-
 <blockquote>
 <p>I designed and developed a solution to split our interactions and scene structure in different scenes to reduce the overall number of assets loaded in memory.</p>
 </blockquote>
-
 <p>This solution comprised the loading and unloading of scenes, both additively and asynchronously, to be as unnoticeable to the user as possible (keeping loading times as short as could be achieved).</p>
-
 <p>After splitting the project in additive scenes, the app suffered no longer from memory crashes on the device.</p>
-
 <p>Profiler comparison before and after applying this optimization is as follows:</p>
-
 <ul>
 <li>Textures reduced from 231.9 MB to 190.2 MB</li>
 <li>Meshes reduced from 79.4 MB to 58.6 MB</li>
@@ -157,13 +146,10 @@
 <li>Number of objects in scene reduced from 114115 to 5244</li>
 <li>Game Objects in scene reduced from 4528 to 1637</li>
 </ul>
-
 <p>Before:
-<img src="/img/portfolio/additiveSceneLoader/AdditiveSceneLoader_Comparison_1.jpg#center-resize" alt="Before" title="Before additive loader" /></p>
-
+<img src="/img/portfolio/additiveSceneLoader/AdditiveSceneLoader_Comparison_1.jpg#center-resize" alt="Before" title="Before additive loader"></p>
 <p>After:
-<img src="/img/portfolio/additiveSceneLoader/AdditiveSceneLoader_Comparison_2.jpg#center-resize" alt="After" title="After additive loader" /></p>
-
+<img src="/img/portfolio/additiveSceneLoader/AdditiveSceneLoader_Comparison_2.jpg#center-resize" alt="After" title="After additive loader"></p>
 <p>This work was developed while working at <strong>Yeltic</strong>: <a href="http://yeltic.com/en/">http://yeltic.com/en/</a></p>
          
       </div>

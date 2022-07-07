@@ -127,58 +127,39 @@
       <div class="content-column-content">
          <h1>Character head and eye tracking</h1>
          <p>A script component that enables player tracking for a given character&rsquo;s eyes and head, based on parametrical constraints.</p>
-
-<hr />
-
+<hr>
 <p>When you&rsquo;re working on a virtual environment with interactive characters it becomes increasingly clear that these interactions need to be as natural as possible. What&rsquo;s more, it&rsquo;s paramount when the main focus of your virtual experience is education. Imagine having a personal instructor that never looks at you when explaining things. You can imagine things start to get really awkward, right?</p>
-
 <p>One of the challenges faced by the <strong><a href="http://yeltic.com/en/">Yeltic</a></strong> organization in their virtual trainings was exactly this: characters seemed to lack naturality when interacting with the player.</p>
-
 <h4 id="the-solution">The Solution</h4>
-
 <blockquote>
 <p>I proposed and developed a solution to this problem: character head and eye tracking. With this technique, combined with corporal, facial animations, and lipsync, characters did really seem more lively, which in turn, made players less uncomfortable around their virtual instructors.</p>
 </blockquote>
-
 <p>This of course, is nothing new. It&rsquo;s an aspect of npc characterization that has been in game development for long now. Think of how npcs looked at Link when approached in The Legend of Zelda: The Wind Waker, for instance.</p>
-
-<p><img src="/img/portfolio/eyeHeadTracking/killerbees.gif#center-resize" alt="Killer bees" title="Remember these creepy little guys? Yikes!" />
-<!-- ###### The Legend of Zelda: The Wind Waker is property of Nintendo --></p>
-
+<p><img src="/img/portfolio/eyeHeadTracking/killerbees.gif#center-resize" alt="Killer bees" title="Remember these creepy little guys? Yikes!"></p>
+<!-- raw HTML omitted -->
 <p>Starting with the basic idea of tracking, the first thought that comes to mind is transform&rsquo;s look at operations. We can easily align a transform&rsquo;s rotation to &ldquo;look at&rdquo; a given target. But this solution, unconstrained, can create weird looking results:</p>
-
-<p><img src="/img/portfolio/eyeHeadTracking/EyeTrackingNoConstraints.gif#center-resize" alt="Unconstrained tracking" title="Unconstrained head tracking" /></p>
-
+<p><img src="/img/portfolio/eyeHeadTracking/EyeTrackingNoConstraints.gif#center-resize" alt="Unconstrained tracking" title="Unconstrained head tracking"></p>
 <p>As you can see, when rotation is unconstrained, things start to look very unnatural. People cannot after all, turn their heads 180 degrees nor can their eyes rotate indefinitely (which ends up in incredibly spooky, scary results!). Another issue with the eyes was that each individual eye must have the same rotation as the other does, unless we want to end up with one eye looking at one direction and the other to somewhere else! Then, I broke this problem in two:</p>
-
 <ul>
 <li>Make a single controller for both eyes which rotate them towards a given target and do not exceed a given angle.</li>
 <li>Make a controller for the head which rotates it towards a given target and does not exceed a given angle.</li>
 </ul>
-
-<p>For the eyes&rsquo; controller, I used a single center transform between them called EyesCenter. Then, I calculated the angle between the EyesCenter&rsquo;s forward vector and the target&rsquo;s distance vector relative to the EyesCenter. I used this calculated angle with an absolute operation to know if it was bigger than the maximum angle provided. If it wasn&rsquo;t, then the target was in range and the eyes would rotate according to the calculated angle (with a lerp smoothing function). Otherwise, the target was out of the provided range of vision and would return to a default orientation (in this case, I used an identity Quaternion).</p>
-
+<p>For the eyes' controller, I used a single center transform between them called EyesCenter. Then, I calculated the angle between the EyesCenter&rsquo;s forward vector and the target&rsquo;s distance vector relative to the EyesCenter. I used this calculated angle with an absolute operation to know if it was bigger than the maximum angle provided. If it wasn&rsquo;t, then the target was in range and the eyes would rotate according to the calculated angle (with a lerp smoothing function). Otherwise, the target was out of the provided range of vision and would return to a default orientation (in this case, I used an identity Quaternion).</p>
 <p>It was very much the same for the head controller but simpler, since it would only need to modify only the head&rsquo;s transform.</p>
-
 <h4 id="the-result">The Result</h4>
-
-<p>A reusable character component which provides eye contact and head movement for a given target (supporting dynamic target changes), given as parameters: vision range angle, rotation speed, and rotation offset.<br />
-<img src="/img/portfolio/eyeHeadTracking/EyeTrackingInspector.gif#center-resize" alt="Inspector component" title="Inspector component" /></p>
-
+<p>A reusable character component which provides eye contact and head movement for a given target (supporting dynamic target changes), given as parameters: vision range angle, rotation speed, and rotation offset.<br>
+<img src="/img/portfolio/eyeHeadTracking/EyeTrackingInspector.gif#center-resize" alt="Inspector component" title="Inspector component"></p>
 <p>Constrained head and eyes tracking with a default pose to return to when out of vision range.
-<img src="/img/portfolio/eyeHeadTracking/EyeTrackingOnOff.gif#center-resize" alt="Constrained tracking" title="Constrained tracking with default position" />
+<img src="/img/portfolio/eyeHeadTracking/EyeTrackingOnOff.gif#center-resize" alt="Constrained tracking" title="Constrained tracking with default position">
 Support for both horizontal and vertical tracking and constraints.
-<img src="/img/portfolio/eyeHeadTracking/EyeTrackingUpDown.gif#center-resize" alt="Vertical movement" title="Vertical tracking" />
+<img src="/img/portfolio/eyeHeadTracking/EyeTrackingUpDown.gif#center-resize" alt="Vertical movement" title="Vertical tracking">
 Rotation constraints help to avoid unnatural behavior.
-<img src="/img/portfolio/eyeHeadTracking/EyeTrackingBack.gif#center-resize" alt="Back movement" title="Unnatural possessed head rotations no more!" /></p>
-
+<img src="/img/portfolio/eyeHeadTracking/EyeTrackingBack.gif#center-resize" alt="Back movement" title="Unnatural possessed head rotations no more!"></p>
 <p>It is worth acknowledging that this component has its limitations and may be improved on some aspects:</p>
-
 <ul>
 <li>Maybe it&rsquo;s not desirable to return to a default pose, maybe it would be better to leave the rotation as the last rotation when the target left the range of vision.</li>
 <li>It requires the character&rsquo;s avatar to be modified: no control bone for any of the eyes nor the head. This means that if there are any animations that animate these bones, those animations for said bones will be ignored.</li>
 </ul>
-
 <p>This work was developed while working at Yeltic: <a href="http://yeltic.com/en/">http://yeltic.com/en/</a></p>
          
       </div>
